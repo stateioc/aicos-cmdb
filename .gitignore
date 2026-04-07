@@ -17,3 +17,7 @@ src/web*/cmdb_*
 
 
 pre-*-bkcodeai
+
+### PreCI ###
+.codecc
+build.yml
