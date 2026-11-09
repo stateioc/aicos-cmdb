@@ -199,11 +199,11 @@ var InitAdminConfig = `
             }
         },
          "copyright":{
-            "value":"Copyright © 2012-{{current_year}} Tencent BlueKing. All Rights Reserved.",
+            "value":"Copyright © 2012-{{current_year}} China Academy of Information and Communications Technology (CAICT). All Rights Reserved.",
             "description":"版权信息",
             "i18n":{
-                "cn":"Copyright © 2012-{{current_year}} Tencent BlueKing. All Rights Reserved.",
-                "en":"Copyright © 2012-{{current_year}} Tencent BlueKing. All Rights Reserved."
+                "cn":"Copyright © 2012-{{current_year}} China Academy of Information and Communications Technology (CAICT). All Rights Reserved.",
+                "en":"Copyright © 2012-{{current_year}} China Academy of Information and Communications Technology (CAICT). All Rights Reserved."
             }
         }
     },
